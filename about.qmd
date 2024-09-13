@@ -1,5 +1,7 @@
 ---
 title: "About"
 ---
+Lusha Wang
+    Linguist and Data Scientist
 
 About this site
